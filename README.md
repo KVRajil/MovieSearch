@@ -50,3 +50,10 @@ CURL Requests
    ```bash
    curl --location 'localhost:3000/movies?query=inception&include_adult=false&page=1'
 
+
+App UI Screenshots
+
+<img width="1728" alt="Screenshot 2023-09-07 at 8 29 48 PM" src="https://github.com/KVRajil/MovieSearch/assets/8760691/fb2075e3-0c35-4b53-9804-7234ff32071e">
+<img width="1727" alt="Screenshot 2023-09-07 at 8 29 59 PM" src="https://github.com/KVRajil/MovieSearch/assets/8760691/2d904150-98cd-4e30-94f6-9d0211077862">
+
+
