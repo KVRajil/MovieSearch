@@ -1,6 +1,6 @@
 # README
 
-A Movie Search application Using Sinatra & VueJS
+A Movie Search application Using Sinatra, PostgreSQL & VueJS
 
 
 Features
