@@ -3,6 +3,7 @@ require 'rack/test'
 require_relative '../config/environment'
 require 'factory_bot'
 require 'database_cleaner'
+require 'vcr'
 require_relative './factories/movie_search_caches'
 
 def app
